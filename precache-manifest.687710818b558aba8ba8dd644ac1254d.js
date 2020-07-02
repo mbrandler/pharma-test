@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54009e42c69e8d886a27628af65e6872",
+    "revision": "12b1f5e5c2d8aa8320f8aa4988b2cf3d",
     "url": "/pharma-test/index.html"
   },
   {
-    "revision": "93f90e1f3bfd6edae854",
+    "revision": "e80dfee2c898e59af9a1",
     "url": "/pharma-test/static/css/main.9e78141c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pharma-test/static/js/2.2de8d1ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93f90e1f3bfd6edae854",
-    "url": "/pharma-test/static/js/main.2dddec20.chunk.js"
+    "revision": "e80dfee2c898e59af9a1",
+    "url": "/pharma-test/static/js/main.be322def.chunk.js"
   },
   {
     "revision": "01e146a55cdf78b8ed95",
