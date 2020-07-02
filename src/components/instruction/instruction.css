@@ -1,0 +1,117 @@
+.instruction .card_first {
+    position: relative;
+    min-height: 341px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1);
+    padding: 54px 32px 40px;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.instruction .card__text {
+    margin-bottom: 6px;
+}
+
+.instruction .card__text_first {
+    margin-bottom: 15px;
+}
+
+.instruction .card__title {
+    margin: 0;
+}
+
+.instruction .card__list li {
+    margin: 0;
+    padding: 0;
+    list-style-type: outside;
+}
+
+.instruction .card__list li:before {
+    content: '';
+    list-style-type: disc;
+    display: list-item;
+    float: left;
+    width: 1px;
+    margin: 0 -7px 0 10px;
+}
+
+.table {
+    width: 98%;
+    text-align: center;
+    border-spacing: 0;
+    margin: 15px 0 43px;
+}
+
+.table, .table td {
+    height: 34px;
+    position: relative;
+}
+
+.table td:nth-child(2) {
+    left: 8px;
+}
+
+.table__row_2 {
+    background: #E7E5E5;
+}
+.table__row_1 {
+    top: 8px;
+}
+
+.table__row_2 {
+    top: 16px;
+}
+.table__row_3 {
+    top: 24px;
+}
+
+.table__title {
+    border: 1px solid #E7E5E5;
+}
+
+.table__col_1 {
+    width:40%;
+}
+
+.table__row_1, .table__row_3 {
+    background: #F7F7F7;
+}
+
+.instruction #card-1 {
+    padding-top: 50px;
+    padding-bottom: 41px;
+}
+
+.instruction #card-2, .instruction #card-3, .instruction #card-6, .instruction #card-10, .instruction #card-14, .instruction #card-15 {
+    padding-top: 48px;
+    padding-bottom: 43px;
+}
+
+.instruction #card-4, .instruction #card-7, .instruction #card-8, .instruction #card-12 {
+    padding-top: 48px;
+    padding-bottom: 44px;
+}
+
+.instruction #card-5 {
+    padding-top: 47px;
+    padding-bottom: 43px;
+    padding-right: 31px;
+}
+
+.instruction #card-9, .instruction #card-13 {
+    padding-top: 48px;
+    padding-bottom: 42px;
+}
+
+.instruction #card-11 {
+    padding-top: 48px;
+    padding-bottom: 38px;
+    padding-right: 43px;
+}
+
+.arrow-back {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    width: 22px;
+    height: auto;
+}

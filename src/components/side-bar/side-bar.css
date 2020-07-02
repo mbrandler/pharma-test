@@ -1,0 +1,19 @@
+.side-bar {
+    position: fixed;
+    width: 304px;
+    min-height: 392px;
+}
+
+@media (max-width: 768px) {
+    .side-bar {
+        position: static;
+        width: 100%;
+        font-size: 14px;
+    }
+}
+
+@media (max-height: 620px) {
+    .side-bar {
+        position: static;
+    }
+}

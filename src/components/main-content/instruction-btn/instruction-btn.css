@@ -1,0 +1,33 @@
+.instruction-btn {
+    position: relative;
+    top: 364px;
+    height: 40px;
+    width: 427px;
+    border-radius: 20px;
+    border: 1px solid #E47BBD;
+    margin: 20px 56px;
+    background-color: #FFFFFF;
+}
+
+.instruction-btn:hover, .instruction-btn:focus {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.instruction-btn__text {
+    font-family: 'Geometria-Medium', serif;
+    font-size: 16px;
+    line-height: 18px;
+    color: #E47BBD;
+    margin: 0 auto;
+}
+
+@media (max-width: 992px) {
+    .instruction-btn {
+        position: static;
+        margin: 20px auto;
+        width: auto;
+    }
+}
+
+

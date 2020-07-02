@@ -1,0 +1,46 @@
+.sign-up {
+    width: 223px;
+    height: 40px;
+    background: linear-gradient(64.59deg, #E47BBD 12.74%, #FBB6E1 109.23%);
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    border: none;
+}
+
+.sign-up:hover, .sign-up:focus {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.sign-up__text {
+    font-family: 'Geometria-Medium', serif;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .sign-up {
+        width: 145px;
+    }
+    .sign-up__text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 576px) {
+    .sign-up {
+        width: 135px;
+        height: 25px;
+    }
+    .sign-up__text {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 383px) {
+    .sign-up {
+       height: 35px;
+    }
+}
