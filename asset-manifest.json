@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pharma-test/static/css/main.9e78141c.chunk.css",
+    "main.js": "/pharma-test/static/js/main.2dddec20.chunk.js",
+    "main.js.map": "/pharma-test/static/js/main.2dddec20.chunk.js.map",
+    "runtime-main.js": "/pharma-test/static/js/runtime-main.229293c9.js",
+    "runtime-main.js.map": "/pharma-test/static/js/runtime-main.229293c9.js.map",
+    "static/js/2.2de8d1ce.chunk.js": "/pharma-test/static/js/2.2de8d1ce.chunk.js",
+    "static/js/2.2de8d1ce.chunk.js.map": "/pharma-test/static/js/2.2de8d1ce.chunk.js.map",
+    "index.html": "/pharma-test/index.html",
+    "precache-manifest.34b1582428fdf6033c4600098b1540fa.js": "/pharma-test/precache-manifest.34b1582428fdf6033c4600098b1540fa.js",
+    "service-worker.js": "/pharma-test/service-worker.js",
+    "static/css/main.9e78141c.chunk.css.map": "/pharma-test/static/css/main.9e78141c.chunk.css.map",
+    "static/js/2.2de8d1ce.chunk.js.LICENSE.txt": "/pharma-test/static/js/2.2de8d1ce.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/pharma-test/static/media/Geometria.4307d7ba.ttf",
+    "static/media/arrow.svg": "/pharma-test/static/media/arrow.7d5edf12.svg",
+    "static/media/book.svg": "/pharma-test/static/media/book.c97c6b56.svg",
+    "static/media/check.svg": "/pharma-test/static/media/check.6156a4cc.svg",
+    "static/media/image.png": "/pharma-test/static/media/image.c5fa7f2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.229293c9.js",
+    "static/js/2.2de8d1ce.chunk.js",
+    "static/css/main.9e78141c.chunk.css",
+    "static/js/main.2dddec20.chunk.js"
+  ]
+}
